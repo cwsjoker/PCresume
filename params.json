@@ -1,0 +1,6 @@
+{
+  "name": "Pcresume",
+  "tagline": "个人PC端简历",
+  "body": "# PCresume\r\n前端开发工程师PC端在线简历。\r\n直接使用根据自己的信息修改html结构就ok了。\r\n\r\n模板的演示，基本的html结构自己配置\r\n![image](https://github.com/cwsjoker/PCresume/blob/master/images/demo.png)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
