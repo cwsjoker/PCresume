@@ -6,4 +6,5 @@
 ![image](https://github.com/cwsjoker/PCresume/blob/master/images/demo.png)
 
 ###戳我->[demo](http://htmlpreview.github.io/?https://github.com/cwsjoker/PCresume/blob/master/resume.html)
+###喜欢和下载的同学请star一下，3Q。
 
